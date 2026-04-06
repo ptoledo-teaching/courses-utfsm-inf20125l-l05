@@ -1,0 +1,5 @@
+--- tests//test009.expected	2026-04-05 19:04:06.684286705 -0400
++++ /dev/fd/63	2026-04-05 19:59:50.638390773 -0400
+@@ -1 +1 @@
+-Mission        : SUCCESS
++Mission        : FAILURE
